@@ -8,6 +8,7 @@ authors = ["Marleyman876 <grant_garfield@yahoo.com>"]
 python = "^3.9"
 Django = "^3.2.6"
 
+
 [tool.poetry.dev-dependencies]
 
 [build-system]
